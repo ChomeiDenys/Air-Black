@@ -53,9 +53,9 @@
           <div class="socials_block">
             <h6 class="socials-title">our socials</h6>
             <div class="socials-logo">
-              <a href="https://www.facebook.com/facebook/?locale=uk_UA" target="_blank"><img src="public/img/facebook.svg" alt="facebook-logo"></a>
-              <a href="https://twitter.com/?lang=uk" target="_blank"><img src="public/img/twitter.svg" alt="tvitter-logo"></a>
-              <a href="https://www.instagram.com/" target="_blank"><img src="public/img/instagram.svg" alt="instagram-logo"></a>
+              <a href="https://www.facebook.com/facebook/?locale=uk_UA" target="_blank"><img src="/public/img/facebook.svg" alt="facebook-logo"></a>
+              <a href="https://twitter.com/?lang=uk" target="_blank"><img src="/public/img/twitter.svg" alt="tvitter-logo"></a>
+              <a href="https://www.instagram.com/" target="_blank"><img src="/public/img/instagram.svg" alt="instagram-logo"></a>
             </div>
           </div>
           
